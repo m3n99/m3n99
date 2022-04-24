@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maen Khdour</h1>
 <h3 align="center">Intrested in Full stack / Flutter developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3n99&label=Profile%20views&color=0e75b6&style=flat" alt="m3n99" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=m3n99&label=Profile%20views&color=0e75b6&style=flat" alt="m3n99" /> 
+ <img src="https://badges.pufler.dev/repos/m3n99" alt="m3n99" /></p>
 
+- :school: I am a ` Undergraduate Student` at Birzeit University
+- 🌱 I’m currently learning `Flutter` and `AI`
+- 📫 How to reach me **m3n.khdour@gmail.com**
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :nerd_face: Always `learning new things`
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3n99" alt="m3n99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
