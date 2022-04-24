@@ -132,12 +132,11 @@
  </a>  
 </p>
 
-
-
-
+ ## 📊 Github Stats
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&show_icons=true&locale=en&layout=compact" alt="m3n99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&locale=en" alt="m3n99" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&count_private=true&theme=algolia" alt="m3n99" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3n99" alt="m3n99" /></a> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"" alt="m3n99" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3n99&layout=compact&theme=algolia" alt="m3n99" /></a> </p>
