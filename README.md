@@ -11,8 +11,9 @@
 - :nerd_face: Always `learning new things`
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><h3>Connect with me:</h3><p align="left">
- 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+ <a href= "mailto:m3n.khdour@gmail.com" target="blank"><img align="center"src= "https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" height="25" width="40"/></a>
 <a href="https://linkedin.com/in/maen-khdour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maen-khdour" height="30" width="40" /></a>
 <a href="https://fb.com/m3n99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m3n99" height="30" width="40" /></a>
 </p>
