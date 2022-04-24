@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Maen Khdour</h1>
 <h3 align="center">Intrested in Full stack / Flutter developer</h3>
