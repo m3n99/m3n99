@@ -6,7 +6,6 @@
  <img src="https://badges.pufler.dev/repos/m3n99" alt="m3n99" />
  <!--<img src="https://img.shields.io/github/followers/m3n99?label=Followers" alt="m3n99" /> -->
 </p>
-
 - :school: I am a ` Undergraduate Student` at Birzeit University
 - 🌱 I’m currently learning `Flutter` and `AI`
 - 📫 How to reach me **m3n.khdour@gmail.com**
@@ -137,7 +136,6 @@
 
  ## 📊 Github Stats
  
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&count_private=true&theme=algolia" alt="m3n99" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"" alt="m3n99" /></p>
