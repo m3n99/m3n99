@@ -8,7 +8,7 @@
 </p>
 
 - :school: I am a ` Undergraduate Student` at Birzeit University
-- 🌱 I’m currently learning `Flutter` and `AI`
+- 🌱 I’m currently learning `Flutter`,`AI`and `UI/UX Design`
 - 📫 How to reach me **m3n.khdour@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
