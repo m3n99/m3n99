@@ -14,7 +14,7 @@
 - :nerd_face: Always `learning new things`
 <br>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 5px> Connect with me
+## 🧐 Connect with me
 <p align="center">
  <a href= "mailto:m3n.khdour@gmail.com" target="blank"><img align="center"src= "https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" height="25" width="40"/></a>
 <a href="https://linkedin.com/in/maen-khdour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maen-khdour" height="30" width="40" /></a>
