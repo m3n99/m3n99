@@ -7,7 +7,7 @@
  <!--<img src="https://img.shields.io/github/followers/m3n99?label=Followers" alt="m3n99" /> -->
 </p>
 
-- :school: I am a ` Undergraduate Student` at Birzeit University
+- :school: I am a ` Graduate  Student` at Birzeit University
 - 🌱 I’m currently learning `Flutter`,`AI`and `UI/UX Design`
 - 📫 How to reach me **m3n.khdour@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
