@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maen Khdour</h1>
-<h3 align="center">Intrested in Flutter / Full Stack  developer</h3>
+<h3 align="center">Senior Flutter / Full Stack  developer</h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=m3n99&label=Profile%20views&color=0e75b6&style=flat" alt="m3n99" /> 
@@ -7,12 +7,6 @@
  <!--<img src="https://img.shields.io/github/followers/m3n99?label=Followers" alt="m3n99" /> -->
 </p>
 
-- :school: I am a ` Graduate  Student` at Birzeit University
-- 🌱 I’m currently learning `Flutter`,`AI`and `UI/UX Design`
-- 📫 How to reach me **m3n.khdour@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
-- :nerd_face: Always `learning new things`
-<br>
 
 ## 🧐 Connect with me
 <p align="center">
