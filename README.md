@@ -1,138 +1,105 @@
-<h1 align="center">Hi 👋, I'm Maen Khdour</h1>
-<h3 align="center">Senior Flutter / Full Stack  developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maen+Khdour;Senior+Flutter+%26+Full-Stack+Developer;AI+Agent+Builder+%F0%9F%A4%96;Team+Lead+%7C+7%2B+Years+of+Experience)](https://git.io/typing-svg)
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=m3n99&label=Profile%20views&color=0e75b6&style=flat" alt="m3n99" /> 
- <img src="https://badges.pufler.dev/repos/m3n99" alt="m3n99" />
- <!--<img src="https://img.shields.io/github/followers/m3n99?label=Followers" alt="m3n99" /> -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=m3n99&label=Profile%20views&color=0e75b6&style=flat" alt="m3n99" />
+  <img src="https://img.shields.io/badge/Repos-27-blue?style=flat&logo=github" alt="repos" />
 </p>
 
+---
 
-## 🧐 Connect with me
+## 🧑‍💻 About Me
+
+I'm a **Senior Flutter Developer & Team Lead** with 7+ years of experience building high-performance mobile and full-stack applications. I specialize in **Flutter/Dart** with BLoC architecture, and I'm actively expanding into **NestJS, TypeScript**, and the world of **AI agents & intelligent systems**.
+
+Currently cooking up something exciting in the **AI space** — a smart platform targeting the **MENA region** with Arabic/English support. 🤖 *Coming soon...*
+
+- 🔭 Working on an **AI-powered project** — stay tuned 🚀
+- 🌱 Learning **AI Agents**, LLMs, and intelligent system design
+- 🎓 Enrolled in AI programs at **Silicon Valley / UCSC**
+- 👨‍💻 **Senior Flutter Developer & Team Lead** with 7+ years of experience
+- 📍 Based in **Palestine** 🇵🇸
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift)](https://skillicons.dev)
+
+### 🌐 Frontend & Backend
+[![Web Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,nestjs,nodejs,python)](https://skillicons.dev)
+
+### 🗄️ Databases & Cloud
+[![DB Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
+
+### 🧰 Tools & Platforms
+[![Tool Skills](https://skillicons.dev/icons?i=git,github,discord,vscode,linux,postman,arduino)](https://skillicons.dev)
+
+### 📊 Other Technologies
+<p align="left">
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Google Maps -->
+  <a href="https://developers.google.com/maps" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Push Notifications / FCM -->
+  <a href="https://firebase.google.com/products/cloud-messaging" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Push Notifications / FCM" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Slack -->
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
 <p align="center">
- <a href= "mailto:m3n.khdour@gmail.com" target="blank"><img align="center"src= "https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg"/></a>
-<a href="https://linkedin.com/in/maen-khdour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maen-khdour" height="30" width="40" /></a>
-<a href="https://fb.com/m3n99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m3n99" height="30" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3n99&theme=algolia" alt="streak" />
 </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m3n99&theme=algolia" /></p>
-
-<br>
-
-### 🔵 Programming Languages
-
-<p align="center"> 
-  &emsp; 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
- </a> 
-  &emsp;
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
- </a>
- &emsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  &emsp;
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
- </a>
-  &emsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- </a>
-</p>
-
-### 🔵 Full Stack Development
-
-<p align="center"> 
-   &emsp;
- <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-</a>
-  &emsp; 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
- </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- </a>
-    &emsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a> 
-  &emsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a> 
-   &emsp;
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- </a> 
-</p>
-
-### 🔵 Mobile Development 
- 
 <p align="center">
- &emsp;
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- </a> 
-  &emsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
- </a>
-  &emsp;
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
- </a>  
- &emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&count_private=true&theme=algolia" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&langs_count=8&show_icons=true&locale=en&layout=compact&theme=algolia" alt="top langs" />
 </p>
 
-### 🔵 Databases
- 
-<p align="center">
- &emsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
- </a>  
-  &emsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- </a>
-  &emsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- </a> 
- &emsp;
-</p>
 
-### 🔵 Software, IDEs, Tools  & Others
- 
-<p align="center">
-  &emsp;
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
- </a>  
-  &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a> 
-  &emsp;
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
- </a>
-  &emsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- </a>  
-</p>
+---
 
- ## 📊 Github Stats
- 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&count_private=true&theme=algolia" alt="m3n99" /></p>
+## 🤝 Get in Touch
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"" alt="m3n99" /></p>
+Open to interesting collaborations, freelance projects, or just connecting with fellow developers.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3n99&layout=compact&theme=algolia" alt="m3n99" /></a> </p>
+- 📧 Email: [m3n.khdour@gmail.com](mailto:m3n.khdour@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/maen-khdour](https://linkedin.com/in/maen-khdour)
+
+Let's build something meaningful together. 🚀
