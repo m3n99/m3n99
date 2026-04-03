@@ -86,13 +86,6 @@ Currently cooking up something exciting in the **AI space** — a smart platform
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3n99&theme=algolia" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m3n99&show_icons=true&count_private=true&theme=algolia" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3n99&langs_count=8&show_icons=true&locale=en&layout=compact&theme=algolia" alt="top langs" />
-</p>
-
-
 ---
 
 ## 🤝 Get in Touch
