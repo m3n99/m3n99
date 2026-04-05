@@ -91,8 +91,6 @@ Currently cooking up something exciting in the **AI space** — a smart platform
 ## 🤝 Get in Touch
 
 Open to interesting collaborations, freelance projects, or just connecting with fellow developers.
-
-- 📧 Email: [m3n.khdour@gmail.com](mailto:m3n.khdour@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/maen-khdour](https://linkedin.com/in/maen-khdour)
 
 Let's build something meaningful together. 🚀
