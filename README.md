@@ -138,7 +138,8 @@ languages: العربية (native) · English (fluent)
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=m3n99&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C24BCB&icon_color=9C00A6&text_color=8E7A96" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=m3n99&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C24BCB&icon_color=9C00A6&text_color=8E7A96" alt="Most used languages" />
+
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=m3n99&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C24BCB&icon_color=9C00A6&text_color=8E7A96" alt="Most used languages" />
 
 <!-- <img src="https://streak-stats.demolab.com?user=m3n99&hide_border=true&background=00000000&ring=9C00A6&fire=C24BCB&currStreakNum=C24BCB&sideNums=8E7A96&currStreakLabel=C24BCB&sideLabels=8E7A96&dates=8E7A96" alt="Contribution streak" />
 
